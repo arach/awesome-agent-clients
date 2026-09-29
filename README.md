@@ -1124,4 +1124,4 @@ Pull requests welcome. Entries must link a canonical source (repository or homep
 
 To the extent possible under law, the maintainers have waived all copyright to this list.
 
-*Generated from `data/agent-clients.json` in the agentlist.io repo by `scripts/generate-agent-clients.py`. Entries are editorial records, not endorsements; stars/licenses are point-in-time snapshots.*
+*Generated from `data/agent-clients.json` in the agentlist.io repo by `scripts/generate-awesome.py`. Entries are editorial records, not endorsements; stars/licenses are point-in-time snapshots.*
