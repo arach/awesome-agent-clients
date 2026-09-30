@@ -306,6 +306,7 @@
 - [Agent Workbench](https://github.com/cvelasquez/agent-workbench) — One local UI for the Claude Code, Codex, OpenCode and Antigravity CLIs: tabs, browsable history, conversations as cards, handoff between CLIs, global… *(★ 2, MIT, drives Antigravity, Claude Code, Codex, OpenCode)*
 - [Better Agent](https://github.com/ofekron/better-agent)
 - [Catnip](https://github.com/wandb/catnip) — Self-hostable web service (W&B) running Claude Code in containerized worktree sandboxes, with a native iOS app *(drives Claude Code)*
+- [Sillage](https://github.com/MarlBurroW/sillage) - Self-hosted, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine; sessions that outlive the client, full-text search across conversations, an IDE panel (file explorer, editor, diffs, terminal), a board the agents read through its own MCP server, and an installable PWA. Single Docker container *(★ 5, MIT, drives Claude Code, Codex)*
 
 ## Cloud & Hosted Control Planes
 
