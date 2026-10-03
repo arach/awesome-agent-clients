@@ -697,6 +697,7 @@
 - [par_cc_usage](https://github.com/paulrobello/par_cc_usage) — Claude Code usage monitor *(★ 84, MIT, drives Claude Code)*
 - [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) — Local-first Windows tray app for monitoring Claude Code and Codex tokens, costs, sessions, and rate limits *(★ 84, MIT, drives Claude Code, Codex)*
 - [tu](https://github.com/sahil87/tu) — AI coding assistant cost tracking CLI — track token usage across Claude Code, Codex, OpenCode *(★ 4, MIT, drives Claude Code, Codex, OpenCode)*
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) — Web dashboard for OpenClaw AI agents that reads local session data to show token usage, session history, and 7-day trends *(drives OpenClaw)*
 
 ## Companions, Notifications & Statusline
 
