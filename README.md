@@ -437,6 +437,7 @@
 - [claude-config](https://github.com/Aurealibe/claude-config) — Comprehensive Claude Code framework: 6 specialized agents, 7 workflow commands, audio notifications - stack agnostic *(★ 67, MIT, drives Claude Code)*
 - [Pi Agent IDE](https://github.com/alexshpunt/pi-agent-ide) — Agent-native IDE extension for the Pi coding agent — guarded editing, search, LSP, terminals, debugging and observability *(★ 8, MIT, drives Pi)*
 - [Terminai](https://github.com/emosenkis/terminai) — Make your coding AI available in your shell *(★ 6, MIT)*
+- [Lookout for VS Code](https://github.com/nimrod-teich/lookout) — VS Code extension that shows every Claude Code, Codex and Copilot CLI session on one board: what each waits on, with the command, file or question quoted, a one-key jump to its tab or terminal, and search across conversations *(★ 5, MIT, drives Claude Code, Codex, Copilot)*
 
 ## Multi-Agent Swarms & Orchestrators
 
