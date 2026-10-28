@@ -832,6 +832,7 @@
 - [clu](https://github.com/Arjia-Labs/clu) — Local-first SQLite issue tracker for coordinating AI coding agents — atomic claim, dependency graphs, workflows & checkpoints, audit log. No daemon, no network *(★ 8, MIT)*
 - [SpecWave](https://github.com/Cyning12/SpecWave) — SpecWave — multi-host coding CLI + P0 gates/Harness (Cursor/Claude/DSH). Formerly SpecGate / dsh-coding-kit. npx spec-wave *(★ 6, MIT, drives Cursor)*
 - [Weaver](https://github.com/sean35mm/weaver) — Shared situational awareness for multiple coding agents working in the same repo *(★ 3, MIT)*
+- [Concord Agent](https://github.com/zkwasm/concord-agent) — ACP bridge connecting local Claude Code, Codex and Gemini sessions to shared rooms on the hosted Concord service for messaging across machines and human oversight.
 - [Agent Client Protocol (ACP)](https://agentclientprotocol.com) — Zed's protocol for embedding agents in editor/host clients; used by Obsidian Agent Client, CodeCompanion.nvim, Agentic.nvim, Agent of Empires, and Agent Kanban
 - [Model Context Protocol (MCP)](https://modelcontextprotocol.io) — connects agents to tools/data; the dominant integration protocol here
 
