@@ -718,6 +718,7 @@
 - [fox-ai-roundtable](https://github.com/PeterPanSwift/fox-ai-roundtable) — 🦊 Ask once, get three answers — same prompt to Claude / Codex (GPT) / Antigravity (Gemini) via their local CLIs *(★ 75, drives Antigravity, Claude Code, Codex, Gemini CLI)*
 - [termagitchi](https://github.com/TevvvB/termagitchi) — A creature for every git worktree, living in your coding agent's status line. Deterministic species, rarity bands, and one view across every live session *(★ 18, MIT)*
 - [llm-panel](https://github.com/musharna/llm-panel) — Ask several LLMs independently, read every answer in full — parallel judges, anonymized rebuttal round, cost accounting, and a measured recall benchmark *(★ 1, MIT)*
+- [Agent Notifications](https://github.com/777genius/agent-notifications) — Desktop task and attention notifications for Claude Code, Codex CLI, OpenCode, Gemini CLI, Cursor CLI, and Qoder on macOS, Linux, and Windows
 
 ## Model Routers & Account Managers
 
