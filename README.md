@@ -716,6 +716,7 @@
 - [claude-code-warp](https://github.com/warpdotdev/claude-code-warp) — Official Warp terminal integration for Claude Code - native notifications and more *(★ 231, MIT, drives Claude Code)*
 - [CCNotify](https://github.com/dazuiba/CCNotify) — CCNotify provides desktop notifications for Claude Code, alerting you when Claude needs your input or completes tasks *(★ 215, MIT, drives Claude Code)* 💤 dormant
 - [fox-ai-roundtable](https://github.com/PeterPanSwift/fox-ai-roundtable) — 🦊 Ask once, get three answers — same prompt to Claude / Codex (GPT) / Antigravity (Gemini) via their local CLIs *(★ 75, drives Antigravity, Claude Code, Codex, Gemini CLI)*
+- [/call-me](https://github.com/radres/call-me) - Claude Code plugin and agent skill that lets an agent ring or text your phone (iPhone or Android) and returns your spoken reply as text; the phone app is a paid subscription
 - [termagitchi](https://github.com/TevvvB/termagitchi) — A creature for every git worktree, living in your coding agent's status line. Deterministic species, rarity bands, and one view across every live session *(★ 18, MIT)*
 - [llm-panel](https://github.com/musharna/llm-panel) — Ask several LLMs independently, read every answer in full — parallel judges, anonymized rebuttal round, cost accounting, and a measured recall benchmark *(★ 1, MIT)*
 
