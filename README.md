@@ -697,6 +697,8 @@
 - [par_cc_usage](https://github.com/paulrobello/par_cc_usage) — Claude Code usage monitor *(★ 84, MIT, drives Claude Code)*
 - [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) — Local-first Windows tray app for monitoring Claude Code and Codex tokens, costs, sessions, and rate limits *(★ 84, MIT, drives Claude Code, Codex)*
 - [tu](https://github.com/sahil87/tu) — AI coding assistant cost tracking CLI — track token usage across Claude Code, Codex, OpenCode *(★ 4, MIT, drives Claude Code, Codex, OpenCode)*
+- [Jvlang AI Codex Usage Tracker](https://jvlangai.com/codex-reset#tracker) — Free browser companion comparing manually entered Codex allowance usage with elapsed time, with countdowns and calendar export
+
 
 ## Companions, Notifications & Statusline
 
