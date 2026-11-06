@@ -791,6 +791,7 @@
 - [WorkGround2](https://github.com/KiddPhenix/WorkGround2) — Local-first AI engineering workbench — CLI, desktop & IM bots sharing one Go agent kernel (cache-first · MCP · sandboxed · rewindable) *(★ 2, MIT)*
 - [wt](https://github.com/sahil87/wt) — Git worktree CLI for parallel-edit workflows — sibling layout and shell-integrated navigation *(★ 2, MIT)*
 
+- [Sandbox0](https://sandbox0.ai) — Managed cloud computers for AI agents with gVisor isolation and persistent writable RootFS checkpoints.
 ## Agent Runtimes & Harness Infrastructure
 
 *Self-hosted runtimes and operating layers underneath agents and swarms.*
