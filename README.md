@@ -402,6 +402,7 @@
 - [Claudette](https://github.com/Olorin-ai-git/claudette) — Claudette — mobile control plane for your AI coding agent (iOS, Android, Apple TV). Real shell + session UI. Public front door: install links + setup CLI *(★ 3, MIT)*
 - [AgentsRoom](https://agentsroom.dev/) — Desktop app (with iOS/Android companions) orchestrating CLI agents across projects as native local processes
 - [Duet](https://duet.so) — Runs Claude Code on a persistent, always-on cloud server (sessions survive for days), controllable from your phone, with scheduling and a team channel interface *(drives Claude Code)*
+- [Telegram Agent](https://github.com/bugraskl/telegram-agent) — Resume saved Codex and Claude Code sessions on Windows from a private Telegram chat with session history and per-task confirmation.
 
 ## IDE & Editor Integrations
 
