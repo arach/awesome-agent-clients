@@ -801,6 +801,7 @@
 - [Open Multi-Agent](https://github.com/open-multi-agent/open-multi-agent) — Self-hosted TypeScript agent runtime with durable approvals and verifiable run records. Own it, approve it, audit it *(★ 7k, MIT)*
 - [Docker Agent](https://github.com/docker/docker-agent) — AI Agent Builder and Runtime by Docker Engineering *(★ 3.4k, Apache-2.0)*
 - [Citadel](https://github.com/SethGammon/Citadel) — The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets *(★ 923, MIT, drives Claude Code, Codex)*
+- [LazyMind](https://github.com/LazyAGI/LazyMind) — Open-source AI Skill Runtime that connects Codex and other coding agents to observable, stateful workflows with review checkpoints, retry and rewind controls, and editable artifacts
 
 ## Coordination, Messaging & Protocols
 
