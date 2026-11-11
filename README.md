@@ -801,6 +801,7 @@
 - [Open Multi-Agent](https://github.com/open-multi-agent/open-multi-agent) — Self-hosted TypeScript agent runtime with durable approvals and verifiable run records. Own it, approve it, audit it *(★ 7k, MIT)*
 - [Docker Agent](https://github.com/docker/docker-agent) — AI Agent Builder and Runtime by Docker Engineering *(★ 3.4k, Apache-2.0)*
 - [Citadel](https://github.com/SethGammon/Citadel) — The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets *(★ 923, MIT, drives Claude Code, Codex)*
+- [TreeHarbor](https://github.com/ArtAndrew/TreeHarbor) — A self-hosted service that gives parallel coding agents workspaces at a pinned Git commit, keeps submitted changes after workspace cleanup, and can publish each proposal as a GitHub draft PR
 
 ## Coordination, Messaging & Protocols
 
