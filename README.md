@@ -134,6 +134,7 @@
 - [Podium ADE](https://github.com/madeinorbit/podium) — Podium is an ADE with built-in cross-harness subagents and agent communication. It runs on desktop, mobile and VPS *(★ 22, Apache-2.0)*
 - [agent-session-manager-desktop](https://github.com/izll/agent-session-manager-desktop) — Desktop GUI for managing multiple AI coding-agent sessions (Claude, Gemini, Aider, Codex, …) — the GUI counterpart of agent-session-manager. Wails + Svelte… *(★ 21, MIT, drives Aider, Claude Code, Codex, Gemini CLI)*
 - [alas](https://github.com/mrmans0n/alas) — The workspace for the whole agent loop: Every agent. Every worktree. One window *(★ 18, MIT)*
+- [Althar](https://github.com/AltharIDE/althar) — Desktop IDE that turns requests into tasks, assigns coding agents, and routes their work through another model for review.
 - [ateam](https://github.com/clawnify/ateam) — Orchestrate a crew of AI coding agents — Claude Code, OpenCode, and Codex — each isolated in its own git worktree. Run them on your Mac or a remote box *(★ 12, drives Claude Code, Codex, OpenCode)*
 - [EvoFlux](https://github.com/evoelsewhere/evoflux) — Evoflux is an open-source, local-first workspace where AI agents build software, conduct deep research, automate browser tasks, and collaborate in parallel.… *(★ 10, Apache-2.0)*
 - [Conductor](https://www.conductor.build/) — macOS app (Melty Labs) running agents in parallel, each in an isolated workspace with branch, terminal, and diff
