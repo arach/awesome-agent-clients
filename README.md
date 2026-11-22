@@ -138,6 +138,7 @@
 - [ateam](https://github.com/clawnify/ateam) — Orchestrate a crew of AI coding agents — Claude Code, OpenCode, and Codex — each isolated in its own git worktree. Run them on your Mac or a remote box *(★ 12, drives Claude Code, Codex, OpenCode)*
 - [EvoFlux](https://github.com/evoelsewhere/evoflux) — Evoflux is an open-source, local-first workspace where AI agents build software, conduct deep research, automate browser tasks, and collaborate in parallel.… *(★ 10, Apache-2.0)*
 - [Conductor](https://www.conductor.build/) — macOS app (Melty Labs) running agents in parallel, each in an isolated workspace with branch, terminal, and diff
+- [Valo](https://getvalo.dev/) — Closed-source desktop workspace that runs Claude Code, Codex, Gemini, Cursor and GLM side by side on Windows, macOS and Linux.
 - [mux](https://mux.coder.com/) — Coder's desktop/browser app that runs many agents in parallel via Local/Worktree/SSH runtimes, but drives its own agent loop rather than orchestrating…
 
 ## Terminal Multiplexers & Session Managers
