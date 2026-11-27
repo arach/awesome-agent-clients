@@ -406,6 +406,7 @@
 - [Duet](https://duet.so) — Runs Claude Code on a persistent, always-on cloud server (sessions survive for days), controllable from your phone, with scheduling and a team channel interface *(drives Claude Code)*
 - [Telegram Agent](https://github.com/bugraskl/telegram-agent) — Resume saved Codex and Claude Code sessions on Windows from a private Telegram chat with session history and per-task confirmation.
 - [Conduit Bridge](https://github.com/CommsConnectgmbh/conduit-bridge) — Runs Claude Code and Codex on your own computer for remote use through the Conduit app, with end-to-end encryption and optional local speech (open bridge; proprietary app and cloud).
+- [Pontia](https://github.com/anthod0/pontia) — Open-source remote control for Claude Code, Codex, Grok Build, Kiro, Antigravity, Pi, and ACP agents running on your own devices, featuring a Lead Bot that coordinates Helpers via Agent Profiles, end-to-end encryption, and self-hosted browser access from desktop or mobile
 
 ## IDE & Editor Integrations
 
