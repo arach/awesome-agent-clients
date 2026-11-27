@@ -813,6 +813,7 @@
 - [Citadel](https://github.com/SethGammon/Citadel) — The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets *(★ 923, MIT, drives Claude Code, Codex)*
 - [LazyMind](https://github.com/LazyAGI/LazyMind) — Open-source AI Skill Runtime that connects Codex and other coding agents to observable, stateful workflows with review checkpoints, retry and rewind controls, and editable artifacts
 - [TreeHarbor](https://github.com/ArtAndrew/TreeHarbor) — A self-hosted service that gives parallel coding agents workspaces at a pinned Git commit, keeps submitted changes after workspace cleanup, and can publish each proposal as a GitHub draft PR
+- [EverythingACP](https://github.com/jiangxingfan1-coder/EverythingACP) — Generates independently runnable ACP wrappers for mapped CLI and API interfaces, with optional task delegation between configured peers
 
 ## Coordination, Messaging & Protocols
 
