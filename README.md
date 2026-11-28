@@ -923,6 +923,7 @@
 - [PatchWarden](https://github.com/jiezeng2004-design/PatchWarden) — Turn your ChatGPT conversations into safe, auditable local execution. PatchWarden lets you discuss ideas and plans with ChatGPT, then hand the approved plan… *(★ 5, MIT)*
 - [Hivelore](https://github.com/Doucs91/hivelore) — Policy enforcement layer for AI coding agents — briefing gates, team memory, Git/CI checks *(★ 3, Apache-2.0)*
 - [Minicode](https://github.com/startupmini/minicode) — Coding agent CLI yang menunjukkan semua kerjanya — transparent, permission-first, MIT, zero-dep. npm: minicode-ai *(★ 1, MIT)*
+- [punchtape](https://github.com/neurophant/punchtape) — External transactional state machine that supervises AI coding agents: runs the task's own checks itself, compares bytes, and seals the finish with a checksum only when everything stands
 
 ## Agent Tooling: Browsers, MCP Adapters & Utilities
 
