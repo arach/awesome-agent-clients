@@ -707,6 +707,8 @@
 - [Jvlang AI Codex Usage Tracker](https://jvlangai.com/codex-reset#tracker) — Free browser companion comparing manually entered Codex allowance usage with elapsed time, with countdowns and calendar export
 - [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) — Web dashboard for OpenClaw AI agents that reads local session data to show token usage, session history, and 7-day trends *(drives OpenClaw)*
 
+- [ReLimit: Monitor](https://apps.apple.com/us/app/relimit-monitor/id6834602625) — macOS app that shows remaining Codex quota and reset times across saved accounts in a dashboard and floating window.
+
 ## Companions, Notifications & Statusline
 
 *Sidecars: notifications, HUDs, tamagotchis, and session-completion signals.*
