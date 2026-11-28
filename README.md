@@ -139,6 +139,7 @@
 - [EvoFlux](https://github.com/evoelsewhere/evoflux) — Evoflux is an open-source, local-first workspace where AI agents build software, conduct deep research, automate browser tasks, and collaborate in parallel.… *(★ 10, Apache-2.0)*
 - [Conductor](https://www.conductor.build/) — macOS app (Melty Labs) running agents in parallel, each in an isolated workspace with branch, terminal, and diff
 - [mux](https://mux.coder.com/) — Coder's desktop/browser app that runs many agents in parallel via Local/Worktree/SSH runtimes, but drives its own agent loop rather than orchestrating…
+- [Jackalope](https://github.com/Jackalope-Dev/jackalope) — Desktop workspace that runs Codex, Claude Code, Gemini CLI, OpenCode and other agents side by side, each task in its own git worktree, with one review view for diffs, checks and merges
 
 ## Terminal Multiplexers & Session Managers
 
